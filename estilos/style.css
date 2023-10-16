@@ -70,7 +70,6 @@ section#b {
 }
 
 section#b img {
-    height: 55vh;
     width: 100%;
     margin-bottom: -5px;
 }
@@ -82,7 +81,6 @@ section#b > ul > li > div {
     padding: 40px;
     margin: auto;
     margin-bottom: 15px;
-    height: 45vh;
 }
 
 section#b > ul > li > div > h3 {
