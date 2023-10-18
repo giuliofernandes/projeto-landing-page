@@ -1,6 +1,16 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 700px) {
+    section#a > p {
+        display: grid;
+        grid-template-columns: auto auto;
+        justify-content: center;
+    }
+
+    section#a span {
+        max-width: 400px;
+    }
+
     section#b > ul {
         display: flex;
         flex-direction: row;
